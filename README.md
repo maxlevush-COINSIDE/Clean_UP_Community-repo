@@ -28,9 +28,9 @@ Draft repository organized you can see [here](https://github.com/maxlevush/Clean
 
 ```
 The Bounty reports submitted should be formatted in the following way: 
-"Network"_Bounty_#n_Report_DD/MM/YYYY-DD/MM/YYYY.md
+"Network"_Bounty_#n_Report_DD.MM.YYYY-DD.MM.YYYY.md
 
-eg. Sumer_Bounty_#10_Report_12/08/2021-24/08/2021.md 
+eg. Sumer_Bounty_#10_Report_12.08.2021-24.08.2021.md 
 include check period
 ```
 
@@ -46,9 +46,9 @@ include check period
 
 ```
 The KPI reports submitted should be formatted in the following way: 
-"Network"_KPI_#n.n_"Name"_DD/MM/YYYY.md
+"Network"_KPI_#n.n_"Name"_DD.MM.YYYY.md
 
-eg. Sumer_KPI_#17.8_Clean_Up_Community_repo_24/08/2021.md 
+eg. Sumer_KPI_#17.8_Clean_Up_Community_repo_24.08.2021.md 
 ```
    
 - `council-reports`
@@ -57,9 +57,9 @@ eg. Sumer_KPI_#17.8_Clean_Up_Community_repo_24/08/2021.md
  
 ```
 The council reports submitted should be formatted in the following way: 
-"Network"_Council_Report_#n_DD/MM/YYYY.md
+"Network"_Council_Report_#n_DD.MM.YYYY.md
 
-eg. Sumer_Council_Report_#12_16/08/2021.md
+eg. Sumer_Council_Report_#12_16.08.2021.md
 ```
 
 - `submission-log`
@@ -72,9 +72,9 @@ eg. Sumer_Council_Report_#12_16/08/2021.md
 
 ```
 The tokenomics reports submitted should be formatted in the following way: 
-"Network"_Tokenomics_Report_#n_DD/MM/YYYY.md
+"Network"_Tokenomics_Report_#n_DD.MM.YYYY.md
 
-eg. Sumer_Tokenomics_Report_#14_05/08/2021.md
+eg. Sumer_Tokenomics_Report_#14_05.08.2021.md
 ```
 
 ### [Documentation](https://github.com/maxlevush/Clean_UP_Community-repo/tree/main/documentation)
@@ -89,27 +89,27 @@ eg. Sumer_Tokenomics_Report_#14_05/08/2021.md
 
 ```
 The Curator WG Leader reports submitted should be formatted in the following way: 
-"Network"_Curator_Lead_Report_#n_DD/MM/YYYY.md
+"Network"_Curator_Lead_Report_#n_DD.MM.YYYY.md
 
-eg. Sumer_Curator_Lead_Report_#13_12/08/2021.md
+eg. Sumer_Curator_Lead_Report_#13_12.08.2021.md
 ```
 
 - `operations_group`
 
 ```
 The Operations WG Leader reports submitted should be formatted in the following way: 
-"Network"_Operations_Lead_Report_#n_DD/MM/YYYY.md
+"Network"_Operations_Lead_Report_#n_DD.MM.YYYY.md
 
-eg. Sumer_Operations_Lead_Report_#02_12/08/2021.md
+eg. Sumer_Operations_Lead_Report_#02_12.08.2021.md
 ```
 
 - `storage_group`
 
 ```
 The Storage WG Leader reports submitted should be formatted in the following way: 
-"Network"_Storage_Lead_Report_#n_DD/MM/YYYY.md
+"Network"_Storage_Lead_Report_#n_DD.MM.YYYY.md
 
-eg. Sumer_Storage_Lead_Report_#06_27/08/2021.md
+eg. Sumer_Storage_Lead_Report_#06_27.08.2021.md
 ```
 
 ## Naming convention rules
@@ -126,4 +126,4 @@ eg. Sumer_Storage_Lead_Report_#06_27/08/2021.md
 
 - all letters must be uppercase
 
-- Date - ``DD/MM/YYYY``
+- Date - ``DD.MM.YYYY``
