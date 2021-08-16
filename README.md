@@ -2,6 +2,8 @@
 
 # [17.8 - Clean up Community Repo - Part 1](https://blog.joystream.org/sumer-kpis/#17.8)
 
+Draft repository organized you can see [here](https://github.com/maxlevush/Clean_UP_Community-repo)
+
 ## Root directory
 
 - `bounties`
@@ -55,9 +57,9 @@ eg. Sumer_KPI_#17.8_Clean_Up_Community_repo_24/08/2021.md
  
 ```
 The council reports submitted should be formatted in the following way: 
-"Network"_Council_Report_#n-DD/MM/YYYY.md
+"Network"_Council_Report_#n_DD/MM/YYYY.md
 
-eg. Sumer_Council_Report_#12-16/08/2021.md
+eg. Sumer_Council_Report_#12_16/08/2021.md
 ```
 
 - `submission-log`
@@ -70,9 +72,9 @@ eg. Sumer_Council_Report_#12-16/08/2021.md
 
 ```
 The tokenomics reports submitted should be formatted in the following way: 
-"Network"_Tokenomics_Report_#n-DD/MM/YYYY.md
+"Network"_Tokenomics_Report_#n_DD/MM/YYYY.md
 
-eg. Sumer_Tokenomics_Report_#14-05/08/2021.md
+eg. Sumer_Tokenomics_Report_#14_05/08/2021.md
 ```
 
 ### [Documentation](https://github.com/maxlevush/Clean_UP_Community-repo/tree/main/documentation)
@@ -87,29 +89,41 @@ eg. Sumer_Tokenomics_Report_#14-05/08/2021.md
 
 ```
 The Curator WG Leader reports submitted should be formatted in the following way: 
-"Network"_Curator_Lead_Report_#n-DD/MM/YYYY.md
+"Network"_Curator_Lead_Report_#n_DD/MM/YYYY.md
 
-eg. Sumer_Curator_Lead_Report_#13-12/08/2021.md
+eg. Sumer_Curator_Lead_Report_#13_12/08/2021.md
 ```
 
 - `operations_group`
 
 ```
 The Operations WG Leader reports submitted should be formatted in the following way: 
-"Network"_Operations_Lead_Report_#n-DD/MM/YYYY.md
+"Network"_Operations_Lead_Report_#n_DD/MM/YYYY.md
 
-eg. Sumer_Operations_Lead_Report_#02-12/08/2021.md
+eg. Sumer_Operations_Lead_Report_#02_12/08/2021.md
 ```
 
 - `storage_group`
 
 ```
 The Storage WG Leader reports submitted should be formatted in the following way: 
-"Network"_Storage_Lead_Report_#n-DD/MM/YYYY.md
+"Network"_Storage_Lead_Report_#n_DD/MM/YYYY.md
 
-eg. Sumer_Storage_Lead_Report_#06-27/08/2021.md
+eg. Sumer_Storage_Lead_Report_#06_27/08/2021.md
 ```
 
 ## Naming convention rules
 
+### Naming convention for folders
 
+``underscore_separated_words`` 
+
+- all letters must be lowercase
+
+### Naming convention for files
+
+``Underscore_Separated_Words`` 
+
+- all letters must be uppercase
+
+- Date - ``DD/MM/YYYY``
