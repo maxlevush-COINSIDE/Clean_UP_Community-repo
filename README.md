@@ -1,3 +1,5 @@
+*`README.md` doesn't have to be like this. We need to add a good description to the community repository*
+
 # [17.8 - Clean up Community Repo - Part 1](https://blog.joystream.org/sumer-kpis/#17.8)
 
 ## Root directory
@@ -22,6 +24,14 @@
 
    > Place for reports divided into folders
 
+```
+The Bounty reports submitted should be formatted in the following way: 
+"Network"_Bounty_#n_Report_DD/MM/YYYY-DD/MM/YYYY.md
+
+eg. Sumer_Bounty_#10_Report_12/08/2021-24/08/2021.md 
+include check period
+```
+
 ### [Community-contributions](https://github.com/maxlevush/Clean_UP_Community-repo/tree/main/community-contributions)
 
 > This folder can be used for community coded bots and projects and anything that doesn't fit elsewhere. Each submission should be in a unique folder within this directory
@@ -31,6 +41,13 @@
 - `KPI`
 
    > The tasks of the KPI completed by the council should be located here
+
+```
+The KPI reports submitted should be formatted in the following way: 
+"Network"_KPI_#n.n_"Name"_DD/MM/YYYY.md
+
+eg. Sumer_KPI_#17.8_Clean_Up_Community_repo_24/08/2021.md 
+```
    
 - `council-reports`
 
@@ -90,6 +107,9 @@ eg. Sumer_Operations_Lead_Report_#02-12/08/2021.md
 The Storage WG Leader reports submitted should be formatted in the following way: 
 "Network"_Storage_Lead_Report_#n-DD/MM/YYYY.md
 
-eg. Sumer_Storage_Lead_Report_#02-12/08/2021.md
+eg. Sumer_Storage_Lead_Report_#06-27/08/2021.md
 ```
+
+## Naming convention rules
+
 
